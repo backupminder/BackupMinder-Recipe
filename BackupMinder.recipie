@@ -12,7 +12,7 @@
         <string>BackupMinder</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>0.2.0</string>
+    <string>0.2.1</string>
     <key>Process</key>
     <array>
         <dict>
@@ -21,7 +21,7 @@
             <key>Arguments</key>
             <dict>
                 <key>appcast_url</key>
-                <string>https://backupminder.org/v1/backupminder-appcast.xml</string>
+                <string>https://backupminder.org/v2/backupminder-appcast.xml</string>
             </dict>
         </dict>
         <dict>
