@@ -1,12 +1,7 @@
-###What can BackupMinder do for me?
+### BackupMinder
 
-BackupMinder is a utility to help manage the many backup files left by repetitive backup processes.
+An open source tool which prevents recurring backups from filling a drive, optionally leaving a single monthly backup for archival purposes.
 
-Programs such as LightSpeed Pro, Daylite, and QuickBooks Server create daily backups which are important, but over time they become bulky and risk filling up hard drives.
+Visit the official recipe's home at Autopkg
 
-Read more at https://www.backupminder.org/
-
-
-
-
-Thanks to @pudquick for help with this recipe
+https://github.com/autopkg/watchmanmonitoring-recipes/tree/master/backupminder
